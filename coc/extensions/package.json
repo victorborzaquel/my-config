@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "coc-snippets": ">=3.1.10",
+    "coc-explorer": ">=0.26.6"
+  }
+}
